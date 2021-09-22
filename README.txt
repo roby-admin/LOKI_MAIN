@@ -4,6 +4,9 @@
 
 RubberDucky HEX generator for tiny85 Mcu.
 
+Homepage:
+https://007cyber.com/loki.html
+
 Type:
 Portable (PE)
 
