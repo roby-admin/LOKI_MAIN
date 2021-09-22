@@ -2,7 +2,7 @@
 # LOKI (c)2021 007cyber.com #
 #############################
 
-RubberDucky hex generator for tiny85 Mcu.
+RubberDucky HEX generator for tiny85 Mcu.
 
 TYPE:
 Portable (PE)
