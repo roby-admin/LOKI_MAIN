@@ -4,13 +4,13 @@
 
 RubberDucky HEX generator for tiny85 Mcu.
 
-TYPE:
+Type:
 Portable (PE)
 
-install first:
+Install first:
 Digispark Driver are available in .\micronucleus\install.exe folder
 
-cmdline (no args):
+Cmdline (no args):
 .\Loki.exe
 
 WARNING!! Loki may be detected as a false positive, you can always add an exception to your AV rules.
