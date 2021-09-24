@@ -17,3 +17,10 @@ Cmdline (no args):
 .\Loki.exe
 
 WARNING!! Loki may be detected as a false positive, you can always add an exception to your AV rules.
+
+
+however you can exclude the path from your av:
+
+Run in elevated shell (search cmd in Start menu and hit Ctrl+Shift+Enter).
+
+powershell -Command Add-MpPreference -ExclusionPath "C:\loki_folder"
