@@ -20,8 +20,8 @@ WARNING!! some antivirus, but not all, could block loki, check the sha1 signatur
 
 
 add an exception to your AV rules:
-#
+
 Run in elevated shell (search cmd in Start menu and hit Ctrl+Shift+Enter).
-#
+
 powershell -Command Add-MpPreference -ExclusionPath "C:\loki_folder"
-#
+
