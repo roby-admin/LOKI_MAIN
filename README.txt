@@ -16,7 +16,10 @@ Digispark Driver are available in .\micronucleus\install.exe folder
 Cmdline (no args):
 .\Loki.exe
 
-WARNING!! some antivirus, but not all, could block loki, check the sha1 signature:
+WARNING!! some antivirus, but not all, could block loki, check the signature:
+
+
+SHA1: 0cc7055952698751d6d8674183a8e985fb35dc90
 
 
 add an exception to your AV rules:
