@@ -16,11 +16,12 @@ Digispark Driver are available in .\micronucleus\install.exe folder
 Cmdline (no args):
 .\Loki.exe
 
-WARNING!! Loki may be detected as a false positive, you can always add an exception to your AV rules.
+WARNING!! some antivirus, but not all, could block loki, check the sha1 signature:
 
 
-however you can exclude the path from your av:
-
+add an exception to your AV rules:
+#
 Run in elevated shell (search cmd in Start menu and hit Ctrl+Shift+Enter).
-
+#
 powershell -Command Add-MpPreference -ExclusionPath "C:\loki_folder"
+#
