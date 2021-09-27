@@ -2,7 +2,7 @@
 # LOKI (c)2021 007cyber.com #
 #############################
 
-RubberDucky HEX generator for tiny85 Mcu.
+RubberDucky HEX Firmware generator for ATtiny85 Mcu.
 
 Homepage:
 https://007cyber.com/loki.html
