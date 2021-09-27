@@ -26,5 +26,5 @@ add an exception to Defender:
 
 Run in elevated shell (search cmd in Start menu and hit Ctrl+Shift+Enter).
 
-powershell -Command Add-MpPreference -ExclusionPath "C:\loki_folder"
+powershell -Command Add-MpPreference -ExclusionPath "C:\...\...\loki_folder"
 
