@@ -21,6 +21,9 @@ WARNING!! some antivirus, but not all, could block loki.
 loki.zip SHA256 file integrity hash:
 05a9d90e3f2b4c2ed21d70516f77651a8359c806361c92d8a2ce7a705c5aecaf
 
+SHA verify:
+certutil -hashfile "loki.zip" sha256
+
 
 add an exception to Defender:
 
