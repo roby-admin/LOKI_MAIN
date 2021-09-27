@@ -18,8 +18,8 @@ Loki.exe
 
 WARNING!! some antivirus, but not all, could block loki.
 
-loki.zip --> LOKI.exe signature:
-SHA1: 0cc7055952698751d6d8674183a8e985fb35dc90
+loki.zip signature:
+sha256 : 05a9d90e3f2b4c2ed21d70516f77651a8359c806361c92d8a2ce7a705c5aecaf
 
 
 add an exception to Defender:
