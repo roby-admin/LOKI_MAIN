@@ -25,7 +25,7 @@ SHA verify:
 certutil -hashfile "loki.zip" sha256
 
 
-add an exception to Defender:
+if your AV detect false/positive add an exception to Defender:
 
 Run in elevated shell (search cmd in Start menu and hit Ctrl+Shift+Enter).
 
