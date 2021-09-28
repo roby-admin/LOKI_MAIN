@@ -16,6 +16,8 @@ Digispark Driver are available in loki.zip --> .\micronucleus\install.exe folder
 Cmdline (no args):
 Loki.exe
 
+Tested on Windos10 20H1 and 1909.
+
 WARNING!! some antivirus, but not all, could block loki.
 
 loki.zip SHA256 file integrity hash:
