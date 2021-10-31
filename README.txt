@@ -8,7 +8,7 @@ Homepage:
 https://007cyber.com/loki.html
 
 Type:
-Portable (PE)
+Portable (Windows PE)
 
 Install first for write usb tiny85mcu:
 Digispark Driver are available in loki.zip --> .\micronucleus\install.exe folder
@@ -16,20 +16,14 @@ Digispark Driver are available in loki.zip --> .\micronucleus\install.exe folder
 Cmdline (no args):
 Loki.exe
 
-Tested on Windos10 20H1 and 1909.
+Tested on Windos10  > ver 1909
 
 WARNING!! some antivirus, but not all, could block loki.
 
-loki.zip SHA256 file integrity hash:
+loki.zip SHA256 file integrity:
 05a9d90e3f2b4c2ed21d70516f77651a8359c806361c92d8a2ce7a705c5aecaf
 
 SHA verify:
 certutil -hashfile "loki.zip" sha256
 
-
-if your AV detect false/positive add an exception to Defender:
-
-Run in elevated shell (search cmd in Start menu and hit Ctrl+Shift+Enter).
-
-powershell -Command Add-MpPreference -ExclusionPath "C:\...\...\loki_folder"
 
